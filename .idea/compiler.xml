@@ -20,7 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ch2-1-eureka" target="1.8" />
+      <module name="ch21eureka" target="1.8" />
       <module name="config" target="1.8" />
       <module name="discovery" target="1.8" />
       <module name="eureka-client" target="1.8" />
