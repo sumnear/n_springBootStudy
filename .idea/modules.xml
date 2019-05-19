@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springCloud/ch12.iml" filepath="$PROJECT_DIR$/springCloud/ch12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch21eureka/ch2-1-eureka.iml" filepath="$PROJECT_DIR$/ch21eureka/ch2-1-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/config/config.iml" filepath="$PROJECT_DIR$/springCloud/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/discovery/discovery.iml" filepath="$PROJECT_DIR$/springCloud/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch21eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/ch21eureka/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch21eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/ch21eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/monitor/monitor.iml" filepath="$PROJECT_DIR$/springCloud/monitor/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/n_springBootStudy.iml" filepath="$PROJECT_DIR$/.idea/n_springBootStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/person/person.iml" filepath="$PROJECT_DIR$/springCloud/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/some/some.iml" filepath="$PROJECT_DIR$/springCloud/some/some.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4/spring4.iml" filepath="$PROJECT_DIR$/spring4/spring4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC/springMVC.iml" filepath="$PROJECT_DIR$/springMVC/springMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot.iml" filepath="$PROJECT_DIR$/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_51CTO/springboot_51CTO_1.iml" filepath="$PROJECT_DIR$/springboot_51CTO/springboot_51CTO_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/ui/ui.iml" filepath="$PROJECT_DIR$/springCloud/ui/ui.iml" />
+    </modules>
+  </component>
+</project>
