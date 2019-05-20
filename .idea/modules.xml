@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ch21eureka/ch2-1-eureka.iml" filepath="$PROJECT_DIR$/ch21eureka/ch2-1-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch21eureka/ch21eureka.iml" filepath="$PROJECT_DIR$/ch21eureka/ch21eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud/config/config.iml" filepath="$PROJECT_DIR$/springCloud/config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud/discovery/discovery.iml" filepath="$PROJECT_DIR$/springCloud/discovery/discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch21eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/ch21eureka/eureka-client/eureka-client.iml" />
