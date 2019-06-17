@@ -18,8 +18,6 @@ public class LogAspect
     {
     }
 
-    ;
-
     @After("annotationPointCut()") //4
     public void after(JoinPoint joinPoint)
     {
@@ -30,11 +28,13 @@ public class LogAspect
     }
 
     @Around("annotationPointCut()")
-    public void around(ProceedingJoinPoint joinPoint)
+    public void around(ProceedingJoinPoint joinPoint) throws Throwable
     {
         MethodSignature signature = (MethodSignature) joinPoint.getSignature();
         Method method = signature.getMethod();
         Action action = method.getAnnotation(Action.class);
+        System.out.println("aroundaroundaroundaroundaroundaround注解式拦截 " + action.name());
+        joinPoint.proceed();
         System.out.println("aroundaroundaroundaroundaroundaround注解式拦截 " + action.name());
 
 

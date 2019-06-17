@@ -16,6 +16,7 @@ public class ExceptionHandlerAdvice
     @ExceptionHandler(value = Exception.class)
     public ModelAndView exception(Exception exception, WebRequest request)
     {
+        System.out.println("exceptionHandler 进来了");
         ModelAndView modelAndView = new ModelAndView("error");// error页面
         modelAndView.addObject("errorMessage", exception.getMessage());
         return modelAndView;
@@ -24,11 +25,12 @@ public class ExceptionHandlerAdvice
     @ModelAttribute
     public void addAttributes(Model model)
     {
-        model.addAttribute("msg", "额外信息");
+        model.addAttribute("msg", "额外信息 sumnear");
     }
 
-//	@InitBinder
-//	public void initBinder(WebDataBinder webDataBinder) {
-//		webDataBinder.setDisallowedFields("id");
-//	}
+	@InitBinder
+	public void initBinder(WebDataBinder webDataBinder) {
+        System.out.println("initBinder aaa");
+		webDataBinder.setDisallowedFields("id");
+	}
 }
