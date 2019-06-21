@@ -14,8 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring4/spring4.iml" filepath="$PROJECT_DIR$/spring4/spring4.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud.iml" filepath="$PROJECT_DIR$/springCloud/springCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/springMVC/springMVC.iml" filepath="$PROJECT_DIR$/springMVC/springMVC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot/springboot.iml" filepath="$PROJECT_DIR$/springboot/springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_51CTO/springboot_51CTO.iml" filepath="$PROJECT_DIR$/springboot_51CTO/springboot_51CTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_ch6/springboot_ch6.iml" filepath="$PROJECT_DIR$/springboot_ch6/springboot_ch6.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud/ui/ui.iml" filepath="$PROJECT_DIR$/springCloud/ui/ui.iml" />
     </modules>
   </component>

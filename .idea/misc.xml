@@ -10,11 +10,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring4/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_51CTO/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC/pom.xml" />
         <option value="$PROJECT_DIR$/springCloud/pom.xml" />
         <option value="$PROJECT_DIR$/ch21eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_ch6/pom.xml" />
       </list>
     </option>
   </component>

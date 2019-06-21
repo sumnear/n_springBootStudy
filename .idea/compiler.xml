@@ -13,8 +13,8 @@
         <module name="monitor" />
         <module name="person" />
         <module name="some" />
-        <module name="springboot" />
         <module name="springboot_51CTO" />
+        <module name="springboot_ch6" />
         <module name="springMVC" />
         <module name="ui" />
       </profile>
@@ -31,6 +31,7 @@
       <module name="spring4" target="1.8" />
       <module name="springboot" target="1.8" />
       <module name="springboot_51CTO" target="1.8" />
+      <module name="springboot_ch6" target="1.8" />
       <module name="springCloud" target="1.8" />
       <module name="springMVC" target="1.8" />
       <module name="ui" target="1.8" />
@@ -41,6 +42,7 @@
       <module name="eureka-client" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="springboot_51CTO" options="-parameters" />
+      <module name="springboot_ch6" options="" />
     </option>
   </component>
 </project>
