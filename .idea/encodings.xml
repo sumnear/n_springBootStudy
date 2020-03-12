@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/ch21eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch21eureka/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch21eureka/eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch21eureka/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch21eureka/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud/discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/discovery/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud/monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/monitor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud/person" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/person/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud/some" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/some/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/ui/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springMVC" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMVC/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_51CTO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_51CTO/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_ch11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_ch11/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_ch6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_ch6/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_ch7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_ch7/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
